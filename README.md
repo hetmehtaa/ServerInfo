@@ -1,4 +1,4 @@
-# DomainInfoSec.sh - Domain Security Information Gathering Tool
+# ServerInfo.sh - Domain Security Information Gathering Tool
 
 A comprehensive Bash script designed to gather various cybersecurity-related information about a given domain. It aims for cross-platform compatibility (Linux & macOS) and provides colorized output for better readability.
 
